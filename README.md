@@ -1,3 +1,5 @@
 Simple TODO List Built using:
-MVVM Architecture
-Room DB
+
+- MVVM Architecture
+
+- Room DB
